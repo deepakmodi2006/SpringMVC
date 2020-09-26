@@ -3,11 +3,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.dmodi</groupId>
-    <artifactId>SpringMVCWebApp</artifactId>
+    <artifactId>SpringMVCFirst</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>war</packaging>
 
-    <name>SpringMVCWebApp</name>
+    <name>SpringMVCFirst</name>
     <properties>
         <endorsed.dir>${project.build.directory}/endorsed</endorsed.dir>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
